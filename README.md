@@ -12,4 +12,4 @@ Liste as tecnologia, linguagens de programação e ferramentas que você usou
 
 # Exemplos de uso
 
-Exemplos de código ou capturas de telas para demostrar como o projeto funciona
+Exemplos de código ou capturas de telas para demostrar como o projeto funciona.
